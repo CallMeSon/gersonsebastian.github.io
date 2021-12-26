@@ -1,0 +1,47 @@
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #352F44;
+    padding-bottom: 1cm;
+}
+
+.display-4 {
+    color: white;
+}
+
+.lead{
+    color: white;
+}
+
+.about{
+    background-color: #5C527F;
+    color: white;
+    margin-bottom: 50px;
+}
+
+p{
+    margin-bottom: 5px;
+}
+
+.col {
+    padding-top: 50px;
+}
+
+.h1 {
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+.text {
+    padding-bottom: 20px;
+}
+
+.contact{
+    background-color: #5C527F;
+}
+
+.project{
+    background-color: #352F44;
+}
